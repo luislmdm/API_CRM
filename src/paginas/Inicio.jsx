@@ -26,7 +26,7 @@ const Inicio = () => {
 
     const handleEliminar = async id => {
         const confirmar = confirm('Deseas Eliminar este cliente')
-        if (confirm) {
+        if (confirmar) {
             try {
                 const url = `${import.meta.env.VITE_API_URL}/${id}`
                 const respuesta = await fetch (url, {
