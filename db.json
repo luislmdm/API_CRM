@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "LUIS DELGADO ACUALI",
+      "empresa": "LMDM",
+      "email": "luislmdm@gmail.com",
+      "telefono": "+573223049595",
+      "notas": "ÑoÑO",
+      "id": 1
+    },
+    {
+      "nombre": "Pulina josefa",
+      "empresa": "Paulina Construcciones",
+      "email": "correo@correo.com",
+      "telefono": "9823",
+      "notas": "Clkjahso",
+      "id": 3
+    },
+    {
+      "nombre": "LUIS DELGADO",
+      "empresa": "LMDM",
+      "email": "claudiamfpd@hotmail.com",
+      "telefono": "3104490245",
+      "notas": "sdasd",
+      "id": 4
+    },
+    {
+      "nombre": "LUISA MARIA",
+      "empresa": "LMDM",
+      "email": "claudiamfpd@hotmail.com",
+      "telefono": "3104490245",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
